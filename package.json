@@ -1,0 +1,19 @@
+{
+  "name": "osm-r-tree-leaflet",
+  "version": "1.0.0",
+  "description": "OSM + R-tree (rbush) + Leaflet spatial indexing demo",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "rbush": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.3",
+    "@types/rbush": "^3.0.2",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  }
+}
